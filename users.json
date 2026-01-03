@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Amit Sharma",
+    "city": "Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Priya Singh",
+    "city": "Mumbai"
+  },
+  {
+    "id": 3,
+    "name": "Rahul Kumar",
+    "city": "Bangalore"
+  },
+  {
+    "id": 4,
+    "name": "Sneha Gupta",
+    "city": "Delhi"
+  },
+  {
+    "id": 5,
+    "name": "Vikram Patel",
+    "city": "Ahmedabad"
+  },
+  {
+    "id": 6,
+    "name": "Riya",
+    "city": "Pune"
+  }
+]
